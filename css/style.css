@@ -531,6 +531,7 @@ hover가 된 contact에서 추가 border 2px이 생겨 컨텐츠 사이즈가 �
 /* Arrow up */
 
 .arrow-up {
+    z-index: 1;
     position: fixed;
     bottom: 2rem;
     right: 2rem;
