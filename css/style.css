@@ -3,7 +3,7 @@
   /* App Colors */
   --color-primary: var(--color-black);
   --color-primary-variant: var(--color-gray);
-  --color-accent:var(--color-green);
+  --color-accent:var(--color-blue);
   --color-accent-variant:var(--color-orange);
   --color-text:var(--color-white);
 
@@ -15,7 +15,7 @@
   /* Colors */
 --color-white: #ffffff;
 --color-black: #050a13;
---color-blue: #03e8f9;
+--color-blue: #0dbde9;
 --color-orange: #fd6413;
 --color-gray: #1b1e26;
 --color-green: #00C39A;
